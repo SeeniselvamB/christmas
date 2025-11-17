@@ -49,7 +49,7 @@ const Christmas = () => {
             </div>
 
             <footer className="footer">
-                <p>Made with ❤️ by Seeniselvam B</p>
+                <p>❤️ Made with by Seeniselvam B ❤️</p>
             </footer>
         </div>
     );
