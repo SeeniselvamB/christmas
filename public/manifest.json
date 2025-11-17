@@ -3,17 +3,17 @@
   "name": "Christmas Wishes",
   "icons": [
     {
-      "src": "christmas2.jpeg",
+      "src": "christmas.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/jpeg"
+      "type": "image/x-icon"
     },
     {
-      "src": "christmas2.jpeg",
+      "src": "christmas.jpeg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "christmas2.jpeg",
+      "src": "christmas.jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }
